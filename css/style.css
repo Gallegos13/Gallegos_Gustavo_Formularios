@@ -10,11 +10,16 @@
             margin-top: 30px;
             margin-bottom: 20px;
         }
-
-        .nav-pills {
-            margin-bottom: 30px;
+        
+        .nav-bg-line {
+            width: 100%;
             border-bottom: 1px solid #dee2e6;
-            padding-bottom: 10px;
+        }
+
+       .nav-pills {
+            border-bottom: 1px solid #dee2e6;
+            width: 100vw;
+            margin-left: calc(-50vw + 50%);
         }
 
         .nav-pills .nav-link.active {
