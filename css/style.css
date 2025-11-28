@@ -34,10 +34,7 @@
             font-size: 1.5rem;
             color: #343a40;
             margin-bottom: 20px;
-            
-            /* CAMBIO: LÍNEA NEGRA */
             border-bottom: 3px solid #000; 
-            
             padding-bottom: 5px;
         }
 
